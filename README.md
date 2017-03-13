@@ -29,7 +29,8 @@ Method 3: Visit here for official installation: https://chrome.google.com/websto
         ...
     });
     ```
-3. Select path and connection options, open the serial port, and then use ```ws.send()``` to send string, ArrayBuffer or Uint8Array
+3. Select path and connection options, open the serial port, and then use ```ws.send()``` to send string or Uint8Array 
+
 ![alt tag](https://github.com/strawmanbobi/web-com/blob/master/src/example/screen_cap.png)
 
 You can also find the example here:
