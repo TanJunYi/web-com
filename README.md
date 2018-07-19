@@ -1,4 +1,5 @@
-# irext-web-com
+# Web COM
+##### :hamster: In fact this is an independent project and works as an utility in irext public console
 Version 0.0.3
 
 This Chrome app provides serial port access ability for your website
