@@ -1,4 +1,4 @@
-# Web COM
+# irext-web-com
 Version 0.0.3
 
 This Chrome app provides serial port access ability for your website
